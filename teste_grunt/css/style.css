@@ -1,0 +1,19 @@
+.contenaire{
+font-size: 10px;
+
+}
+p{
+    color: aliceblue;
+}
+
+.div-top {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.heading {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Amaranth', sans-serif;
+}
